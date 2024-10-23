@@ -1,0 +1,45 @@
+/* Estilos gerais do corpo da página */
+body {
+    font-family: Arial, sans-serif; /* Fonte padrão */
+    line-height: 1.6; /* Altura da linha para melhor legibilidade */
+    margin: 0; /* Remove margens padrão */
+    padding: 0; /* Remove preenchimento padrão */
+    background-color: #bf8fff; /* Cor de fundo suave */
+    color: #ffffff; /* Cor do texto */
+}
+
+/* Estilos do cabeçalho */
+header {
+    background: #8a37f7; /* Cor de fundo */
+    color: #fff; /* Cor do texto em branco */
+    padding: 20px; /* Espaçamento interno */
+    text-align: center; /* Alinhamento centralizado do texto */
+}
+
+h1 {
+    margin: 0; /* Remove margens do título principal */
+}
+
+/* Estilos do conteúdo principal */
+main {
+    padding: 20px; /* Espaçamento interno do conteúdo principal */
+}
+
+/* Estilos da seção do poema */
+.poem {
+    background: #8a37f7; /* Cor de fundo para o poema */
+    padding: 20px; /* Espaçamento interno */
+    border-radius: 5px; /* Cantos arredondados */
+    margin: 20px 0; /* Margem superior e inferior */
+}
+
+/* Estilos do rodapé */
+footer {
+    text-align: center; /* Alinhamento centralizado do texto */
+    padding: 10px; /* Espaçamento interno do rodapé */
+    background: #8a37f7; /* Cor de fundo */
+    color: #fff; /* Cor do texto em branco */
+    position: fixed; /* Mantém o rodapé fixo na parte inferior */
+    width: 100%; /* Largura total */
+    bottom: 0; /* Posiciona na parte inferior da página */
+}
